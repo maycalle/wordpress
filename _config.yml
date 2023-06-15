@@ -1,0 +1,11 @@
+title: Wordpress
+description: > # this means to ignore newlines until "baseurl:"
+  Curso de programación en Scala. Desde los elementos básicos del 
+  lenguaje hasta conceptos algo más avanzados.
+  Escrito por Nacho Iborra, profesor de ciclos formativos de 
+  Formación Profesional en el I.E.S. San Vicente (San Vicente del Raspeig, Alicante, España)
+baseurl: "/wordpress" # the subpath of your site, e.g. /blog
+url: "http://maycalle.github.io" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
